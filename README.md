@@ -38,17 +38,8 @@ Program Python ini merupakan implementasi sederhana dari Enkripsi Electronic Cod
 - `biner_ke_text(binary)`: Mengonversi string biner ke heksadesimal.
 - `ecb_encrypt(plaintext_hex, key_bin)`: Melakukan enkripsi ECB pada plaintext dan kunci yang diberikan.
 
-## Contoh
+## Example
 
-```bash
-Masukan Plaintext (Heksadesimal) : A23A9
-Masukan Kunci (Biner) : 1011
-```
-
-## Output
-
-```bash
-Hasil Enkripsi : ['2', '3', '1', '2', '4']
-```
+![Example](https://github.com/kyuurazz/Encryption-Electronic-Code-Book/assets/91085882/e422a576-03ec-4f44-a306-a20cd3169742)
 
 ### Selamat mengenkripsi! 🚀
